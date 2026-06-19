@@ -3,3 +3,4 @@ tensorflow
 music21
 numpy
 gunicorn
+h5py
